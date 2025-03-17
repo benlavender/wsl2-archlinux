@@ -17,6 +17,7 @@ append_path '/usr/local/bin'
 append_path '/usr/bin'
 append_path '/usr/local/bin/terraform-docs'
 append_path '/usr/local/bin/azcopy_linux_amd64_10.28.0'
+append_path '/usr/local/bin/terraform'
 
 # Force PATH to be environment
 export PATH

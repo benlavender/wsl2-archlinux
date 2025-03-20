@@ -56,6 +56,7 @@ RUN sudo pacman -S \
     bind \
     dmidecode \
     man-db \ 
+    man-pages\
     tflint \
     azure-cli \
     --needed --noconfirm

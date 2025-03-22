@@ -5,8 +5,6 @@
    <br>
 </h1>
 
-## Overview:
-
 Arch Linux configuration files that I use to run on WSL2.
 
 This is a Docker generated image that is built then exported to a tarball and then imported into WSL2.

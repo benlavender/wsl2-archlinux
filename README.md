@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="images/arch.png" width="350px" /> 
+   <img src="images/arch.png" width="300px" /> 
    <br>
       wsl2-archlinux
    <br>

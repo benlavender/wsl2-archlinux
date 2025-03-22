@@ -1,4 +1,11 @@
-# wsl2-archlinux
+<h1 align="center">
+   <img src="images/arch-logo.png" alt="arch-logo.png" /> 
+   <br>
+      wsl2-archlinux
+   <br>
+</h1>
+
+## Overview:
 
 Arch Linux configuration files that I use to run on WSL2.
 

@@ -59,6 +59,7 @@ RUN sudo pacman -S \
     man-pages\
     tflint \
     azure-cli \
+    rsync \
     --needed --noconfirm
 
 # Change working directory to $user:
